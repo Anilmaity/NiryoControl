@@ -1,0 +1,3 @@
+([('StepperControl',
+   '/Users/anilmaity/PycharmProjects/NiryoControl/dist/StepperControl',
+   'EXECUTABLE')],)
